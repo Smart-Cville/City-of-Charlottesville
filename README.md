@@ -16,6 +16,16 @@ The process of creating the dashboard can be very time intensive and isn’t nec
 
 The economic indicators are included in the OED’s datatool, a compilation of fact sheets used to help promote Charlottesville as a business-friendly community and to share with business owners and community members. 
 
+## Data Points
+| LABOR FORCE | collected from VEC, data is usually one quarter behind current quarter |
+| AT-PLACE EMPLOYMENT | collected from VIrginia Employment Commision (VEC). Data usually lags 2-3 quarters behind current quarter [https://data.virginialmi.com] (https://data.virginialmi.com) |
+| VACANCY RATES | collected twice a year (Jan. & July) by OED |
+| HOUSING SALES | collected from CAAR quarterly reports [http://www.caar.com/](http://www.caar.com/) |
+| CONSUMER PRICE INDEX | collected from BLS [https://www.bls.gov/cpi/](https://www.bls.gov/cpi/) |
+| TAXABLE SALES COLLECTED | collected from City’s Finance Department, quarterly number is average of three taxes - Sales, Meals, Lodging (combined). - Internal, gathered from Excel spreadsheet |
+| TOURISM | proprietary data collected from Smith Travel Reports. Have permission to show only aggregate data. Internal, gathered from Excel spreadsheet|
+
+
 # Resources
 [TODO]
 
