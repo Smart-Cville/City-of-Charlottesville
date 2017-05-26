@@ -2,9 +2,6 @@
 City of Charlottesville
 Economic Development
 
-### Stakeholder
-[Enter contact information]
-
 # Problem
 The City of Charlottesville Office of Economic Development publishes quarterly economic indicator data to educate potential business owners, current business owners, and citizens on the economic climate in the city.
 
