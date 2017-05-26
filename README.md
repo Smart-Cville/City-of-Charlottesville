@@ -29,10 +29,11 @@ The economic indicators are included in the OED’s datatool, a compilation of f
 
 
 # Resources
-[TODO]
-
-## Data Sets
-[TODO]
+[Cville Economic Indicators](https://github.com/Smart-Cville/City-of-Charlottesville/blob/master/RESOURCES/Charlottesville%20Economic%20Indicators%20-%20September%202012.docx)
+[Current Data Visualizations](https://github.com/Smart-Cville/City-of-Charlottesville/blob/master/RESOURCES/Charlottesville%20Economic%20Indicators%20-%20September%202012.docx)
+[https://data.virginialmi.com] (https://data.virginialmi.com)
+[http://www.caar.com/](http://www.caar.com/)
+[https://www.bls.gov/cpi/](https://www.bls.gov/cpi/)
 
 ## Websites
 [www.oeddatatool.charlottesville.org](https://www.oeddatatool.charlottesville.org)
