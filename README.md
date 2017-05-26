@@ -1,6 +1,7 @@
 # Partner
 City of Charlottesville
-Economic Development
+
+[Economic Development](http://www.charlottesville.org/departments-and-services/departments-a-g/economic-development)
 
 # Problem
 The City of Charlottesville Office of Economic Development publishes quarterly economic indicator data to educate potential business owners, current business owners, and citizens on the economic climate in the city.
