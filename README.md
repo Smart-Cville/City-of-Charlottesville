@@ -17,6 +17,7 @@ The process of creating the dashboard can be very time intensive and isn’t nec
 The economic indicators are included in the OED’s datatool, a compilation of fact sheets used to help promote Charlottesville as a business-friendly community and to share with business owners and community members. 
 
 ## Data Points
+| Data Point | Details |
 | --- | --- |
 | LABOR FORCE | collected from VEC, data is usually one quarter behind current quarter |
 | AT-PLACE EMPLOYMENT | collected from VIrginia Employment Commision (VEC). Data usually lags 2-3 quarters behind current quarter [https://data.virginialmi.com] (https://data.virginialmi.com) |
